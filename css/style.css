@@ -1,5 +1,7 @@
 body{
-	height:1900px;
+	width:1440px;
+	height: 1737px;
+	position: relative;
 }
 header{
 	width:1440px;
@@ -78,15 +80,9 @@ margin-left: 457px;
 }
 /*aq movrchi headers*/
 
-
-
-
-
-
 /*aq daviwye maini*/
 
 /*aq daviwye fotoebi*/
-
 
 /*aq daciwye fotoebi*/
 
@@ -110,7 +106,9 @@ line-height: 20px;
 font-style: normal;
 text-align: left;
 color: #202124;
-margin-bottom: 390px;
+top: 25px;
+
+
 }
 h2{
 position: absolute;
@@ -138,11 +136,12 @@ top: 60px;
 position: relative;
 width: 360px;
 height: 180px;
-border-left-top-radius: 6px;
-border-right-top-radius: 6px;
-border-right-bottom-radius: 0px;
-border-left-bottom-radius: 0px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+border-bottom: 0px;
 }
+
+
 .rel{
 	position: absolute;
 }
@@ -154,12 +153,10 @@ border-left-bottom-radius: 0px;
 position: absolute;
 width: 360px;
 height: 180px;
-border-left-top-radius: 0px;
-border-right-top-radius: 0px;
-border-right-bottom-radius: 6px;
-border-left-bottom-radius: 6px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+border-bottom: 0px;
 top:170px ;
-l
 }
 .mdiv{
 	position: relative;
@@ -201,9 +198,6 @@ left:40px ;
 }
 /*aq morcha marcxena */
 
-
-
-
 /*aq iwyeba shua*/
 .mid{
 	left: 400px;
@@ -220,16 +214,134 @@ left:40px ;
 }
 /*aq morcha sami foto*/
 
-
-
-
-
 /*aq daviwye didi fotoebi*/
 
 .tr{
+	position: absolute;
 	top: 534px;
 	width: 770px;
+   left: 140px;
 }
+/*fotoebi*/
+
+/*fotoebi*/
+.bg{
+display: inline-block;
+position: relative;
+width: 760px;
+height: 900px;
+left: 140px;
+top: 118px;
+}
+.gza{
+	position: absolute;
+	top: 470px;
+}
+
+
+
+
+.sml{
+position: absolute;
+width: 360px;
+height: 834px;
+display: inline-;
+
+margin-top: -783px;
+margin-left: 960px;
+}
+.sami img{
+	position:relative;
+	margin-bottom: 102px;
+}
+
+
+
+/*aq morcha fotoebi*/
+/*aq morcha mai*/
+/*aq morcha mai*/
+
+
+/* aq iwyeba footeri*/
+/* aq iwyeba footeri*/
+/* aq iwyeba footeri*/
+
+
+
+
+
+.fot{
+position:relative;
+width: 1440px;
+height: 200px;
+background-color: #A6ADB4;
+top: 117px;
+margin-top: 40px;
+}
+.w{
+position: relative;
+width: 477.1px;
+height: 85px;
+left: 152px;
+top: 56px;
+display: inline-block;
+}
+.log{
+position: absolute;
+width: 40px;
+height: 16px;
+font-family: "Acumin Pro";
+font-size: 13px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+text-align: left;
+color: #ffffff;
+
+}
+.pebi{
+position: absolute;
+height: 16px;
+font-family: "Helvetica";
+font-size: 13px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+text-align: left;
+color: #cbd0d3;
+}
+.fl{
+	position: absolute;
+	left: 76px;
+}
+.abo{position: absolute;
+	left: 209px;
+}
+.tes{
+	position: absolute;
+	left: 357px;
+}
+.st{
+	width: 243px;
+	position: absolute;
+	font-size: 11px;
+	height: 9px;
+	font-weight:normal;
+	left: 541px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

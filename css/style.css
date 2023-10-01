@@ -1,0 +1,285 @@
+body{
+	height:1900px;
+}
+header{
+	width:1440px;
+	height: 50px;
+	position: sticky;
+	top: 0;
+	margin: 0;
+	z-index: 20;
+}
+.a{
+position:absolute;
+width: 40px;
+height: 16px;
+font-family: "Helvetica";
+font-size: 13px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+color: #fa6980;
+margin-top: 18px;
+margin-left: 20px;
+display: inline-block;
+margin-right: 90px;
+
+}
+nav{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+}
+li a{
+font-family: "Helvetica";
+font-size: 11px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+text-align: left;
+color: #343638;
+margin-top:7px ;
+margin-bottom:16px ;
+position: absolute;
+margin-right: 25px;
+}
+.home{
+width: 34px;
+height: 14px;
+margin-left: 150px;
+}
+.dis{
+width: 66px;
+height: 14px;
+opacity: 0.50;
+margin-left:210px ;
+}
+.ph{
+width: 48px;
+height: 14px;
+opacity: 0.50;
+margin-left: 296px;
+}
+.con{
+margin-left: 364px;
+width:54px ;
+height: 14px;
+opacity: 0.50;
+}
+.im{
+position: absolute;
+width: 30px;
+height: 30px;
+margin-top: 11px;
+margin-right: 9px;
+display: inline;
+margin-left: 457px;
+}
+/*aq movrchi headers*/
+
+
+
+
+
+
+/*aq daviwye maini*/
+
+/*aq daviwye fotoebi*/
+
+
+/*aq daciwye fotoebi*/
+
+.big{
+position: relative;
+width: 1160px;
+height: 410px;
+left:140px ;
+top: 135px;
+display: inline-block;
+top: 25px;
+}
+h1{
+position: absolute;
+width: 1025px;
+height: 20px;
+font-family: "Helvetica";
+font-size: 24px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+text-align: left;
+color: #202124;
+margin-bottom: 390px;
+}
+h2{
+position: absolute;
+width: 280px;
+height: 16px;
+font-family: "Helvetica";
+font-size: 16px;
+font-weight: bold;
+line-height: 20px;
+font-style: normal;
+text-align: left;
+color: #ffffff;
+left: 40px;
+top: 28px;
+}
+.div{
+position: absolute;
+width: 360px;
+height: 350px;
+display: inline-block;
+opacity: 1.00;
+top: 60px;
+}
+.impg{
+position: relative;
+width: 360px;
+height: 180px;
+border-left-top-radius: 6px;
+border-right-top-radius: 6px;
+border-right-bottom-radius: 0px;
+border-left-bottom-radius: 0px;
+}
+.rel{
+	position: absolute;
+}
+.impg{
+	display: inline-block;
+	position: relative;
+}
+.mydiv{
+position: absolute;
+width: 360px;
+height: 180px;
+border-left-top-radius: 0px;
+border-right-top-radius: 0px;
+border-right-bottom-radius: 6px;
+border-left-bottom-radius: 6px;
+top:170px ;
+l
+}
+.mdiv{
+	position: relative;
+}
+.lor{
+position: absolute;
+width: 280px;
+height: 38px;
+font-family: "Acumin Pro";
+font-size: 13px;
+font-weight: normal;
+line-height: 23px;
+font-style: normal;
+text-align: left;
+color: #a6adb4;
+top: 76px;
+left: 40px;
+}
+.mam{
+position: absolute;
+margin-top: 125px;
+left: 66px;
+width: 45px;
+height: 16px;
+font-family: "Helvetica";
+font-size: 13px;
+font-weight: normal;
+line-height: 26px;
+font-style: normal;
+text-align: left;
+color: #a6adb4;
+}
+.kai{
+position: relative;
+width: 16px;
+height: 16px;
+top: 124px ;
+left:40px ;
+}
+/*aq morcha marcxena */
+
+
+
+
+/*aq iwyeba shua*/
+.mid{
+	left: 400px;
+}
+
+/*esaa marjena*/
+/*esaa marjena*/
+.rgh{
+	left: 800px;
+	position: absolute;	
+}
+.em{
+	top: 246px;
+}
+/*aq morcha sami foto*/
+
+
+
+
+
+/*aq daviwye didi fotoebi*/
+
+.tr{
+	top: 534px;
+	width: 770px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
